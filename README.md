@@ -7,7 +7,7 @@
 
 - 📄 [My resume](https://drive.google.com/file/d/1PKPRmQT6oFpqMWv3UWRVL-U6kEA7Iynd/view?usp=sharing)
 
-- ⚡ Fun fact **I can speak 6 languages**
+- ⚡ Fun fact: **I can speak 6 languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
