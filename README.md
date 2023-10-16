@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devasha Trivedi</h1>
-<h3 align="center">A NLP graduate student at UC Santa Cruz, passionate about Machine Translation.</h3>
+<h3 align="center">A Natural Language Processing graduate student at UC Santa Cruz, passionate about Machine Translation.</h3>
 
 - 🔭 I’m currently working on **Documenting low-resource languages with LLMs**
 
