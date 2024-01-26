@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **devashatrivedi@outlook.com**
 
-- 📄 [My resume]([https://drive.google.com/file/d/1PKPRmQT6oFpqMWv3UWRVL-U6kEA7Iynd/view?usp=sharing](https://drive.google.com/file/d/1fiM7P0cnhHlYkrp5d3CFObLhVoXuHBZP/view?usp=sharing))
+- 📄 [My resume](https://drive.google.com/file/d/1PKPRmQT6oFpqMWv3UWRVL-U6kEA7Iynd/view?usp=sharing](https://drive.google.com/file/d/1fiM7P0cnhHlYkrp5d3CFObLhVoXuHBZP/view?usp=sharing)
 
 - ⚡ Fun fact: **I can speak 6 languages!**
 
