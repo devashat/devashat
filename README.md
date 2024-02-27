@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Documenting low-resource languages with LLMs**
 
-- 📫 Reach me at **devashatrivedi@outlook.com**
+- 📫 Reach me at **detrived@ucsc.edu**
 
 - 📄 [My resume](https://drive.google.com/file/d/1fiM7P0cnhHlYkrp5d3CFObLhVoXuHBZP/view?usp=sharing)
 
