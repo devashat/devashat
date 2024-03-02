@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **detrived@ucsc.edu**
 
-- 📄 [My resume](https://drive.google.com/file/d/1fiM7P0cnhHlYkrp5d3CFObLhVoXuHBZP/view?usp=sharing](https://drive.google.com/file/d/1MxxYep-6mVh6qWIGR1fo-TM3H5lBGbR2/view?usp=sharing)
+- 📄 [My resume](https://drive.google.com/file/d/1MxxYep-6mVh6qWIGR1fo-TM3H5lBGbR2/view?usp=drive_link)
 
 - ⚡ Fun fact: **I can speak 6 languages!**
 
