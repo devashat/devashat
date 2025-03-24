@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devasha-trivedi-590232b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devasha-trivedi-590232b7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devasha-trivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devasha-trivedi-590232b7" height="30" width="40" /></a>
 <a href="https://kaggle.com/devashatrivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devashatrivedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devasha" height="30" width="40" /></a>
 </p>
